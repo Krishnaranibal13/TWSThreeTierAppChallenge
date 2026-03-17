@@ -1,4 +1,4 @@
-name: Deploy_fullstackapp
+name: Deploy_fullstack_app
 
 on:
   push:
